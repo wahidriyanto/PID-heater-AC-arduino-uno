@@ -4,4 +4,3 @@ AC RBDdimmer PID control with tubidity sensor to detect water condition and rela
 
 *need some more pid tuning
 
-author: Mas Sagita
